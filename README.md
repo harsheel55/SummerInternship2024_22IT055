@@ -24,6 +24,7 @@ Welcome to Belymon Infotech!
 Welcome, interns, to Belymon Infotech! We're excited to have you join our team and look forward to a productive and enriching internship experience. This week, we will focus on onboarding and introducing you to the technologies and tools you'll be using, specifically Flutter, for developing our file sharing app.
 
 📝** Day-by-Day Progress**
+
 **Day 1:** Introduction and Orientation
 Activities:
 
@@ -35,6 +36,7 @@ Goals:
 
 Get to know the team and understand the company's vision.
 Set up your development environment.
+
 **Day 2:** Understanding Flutter
 Activities:
 
@@ -45,6 +47,7 @@ Goals:
 
 Gain a basic understanding of Flutter and its components.
 Get comfortable with the development tools.
+
 **Day 3:** Deep Dive into Flutter Widgets
 Activities:
 
@@ -55,6 +58,7 @@ Goals:
 
 Understand the fundamental widgets in Flutter.
 Learn how to manage state in a Flutter app.
+
 **Day 4:** Introduction to File Sharing Concepts
 Activities:
 
@@ -65,6 +69,7 @@ Goals:
 
 Understand the basic concepts of file sharing.
 Get an overview of the app's architecture and design.
+
 **Day 5:** Project Setup and Initial Development
 Activities:
 
@@ -75,6 +80,7 @@ Goals:
 
 Get familiar with the project repository and version control.
 Begin the initial phase of app development.
+
 **Day 6:** Code Review and Feedback Session
 Activities:
 
@@ -85,6 +91,7 @@ Goals:
 
 Improve your code quality based on feedback.
 Prepare for the next steps in the project.
+
 **Day 7:** Installation Andorid studio and same packages for flutter
 Activities:
 
