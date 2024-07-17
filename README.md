@@ -20,11 +20,6 @@ Here is the Outine of Week-1:
 
 5.Project Setup and Initial Development
 
-6.Code Review and Feedback Session
-
-7.Installation Andorid studio and same packages for flutter
-
-
 📝**Day-by-Day Progress**
 
 **Day 1:** Introduction and Orientation
@@ -63,14 +58,32 @@ Project Repository: Introduction to the project repository and version control u
 Initial Setup: Set up the initial project structure in Flutter.
 Begin Development: Start working on the initial components of the app.
 
-**Day 6:** Code Review and Feedback Session
+2️⃣ week 2
+
+**Date: 20 May 2024**
+
+**Here is the Outine of Week-2:**
+
+1.Code Review and Feedback Session
+
+2.Installation Andorid studio and same packages for flutter
+
+3.Advanced Flutter Concepts
+
+4.Networking and APIs
+
+5.Database Integration
+
+📝**Day-by-Day Progress**
+
+**Day 1:** Code Review and Feedback Session
 Activities:
 
 Code Review: Review the code written so far with your mentor.
 Feedback Session: Receive feedback and discuss any challenges faced during the week.
 Planning for Next Week: Plan the tasks and goals for the upcoming week.
 
-**Day 7:** Installation Andorid studio and same packages for flutter
+**Day 2:** Installation Andorid studio and same packages for flutter
 Activities:
 
 **Introduction to Android Studio**
@@ -101,5 +114,40 @@ Verifying Installation:
 Open a terminal and run flutter doctor to ensure all dependencies are installed.
 Address any issues or missing dependencies as indicated by flutter doctor.
 
+**Day 3:** Advanced Flutter Concepts
+Activities:
 
+State Management Deep Dive
+Detailed exploration of state management solutions in Flutter: Provider, Riverpod, Bloc, etc.
+Comparison of different state management techniques.
+Advanced Widgets and Animations
+Working with advanced widgets: ListView, GridView, CustomScrollView.
+Introduction to animations in Flutter: implicit and explicit animations.
+Hands-On Practice
+Implement state management in a sample app.
+Create a simple animation to enhance the UI.
+
+**Day 4:** Networking and APIs
+Activities:
+
+Networking in Flutter
+Introduction to HTTP requests in Flutter using the http package.
+Working with RESTful APIs.
+Data Handling
+Parsing JSON data.
+Displaying data fetched from an API in the app.
+Hands-On Practice
+Integrate a public API into a sample Flutter app.
+Display the fetched data using ListView or GridView.
+
+**Day 5:** Database Integration
+Activities:
+
+Introduction to firebase batabase.
+CRUD operations (Create, Read, Update, Delete) with firebase.
+Overview of cloud database options (Firebase Firestore).
+Setting up Firebase and integrating Firestore with a Flutter app.
+Hands-On Practice
+Implement a local database in a sample app.
+Perform basic CRUD operations and display the data.
 
