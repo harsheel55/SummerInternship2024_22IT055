@@ -237,7 +237,7 @@ Implement push notifications in the app.
 
 **4️⃣ week 4**
 
-**Date: 27 May 2024**
+**Date: 10 May 2024**
 
 **Here is the Outline of Week-3:**
 
@@ -312,3 +312,71 @@ Implementing dynamic language switching.
 Hands-On Practice
 Improve accessibility features in the app.
 Implement localization for key app components.
+
+**week 5**
+
+**Date: 17 Jun 2024**
+
+**Here is the Outline of Week-3:**
+
+1.Accessibility and Localization
+
+2.Final Feature Enhancements
+
+3.Performance Optimization and Bug Fixing
+
+4.Documentation and Code Review
+
+5.Final Testing and User Acceptance
+
+📝**Day-by-Day Progress**
+
+**Day 1:** Accessibility and Localization
+Activities:
+
+Accessibility
+Implementing accessibility features to ensure the app is usable by people with disabilities.
+Localization
+Adding support for multiple languages through localization.
+Implementing dynamic language switching.
+Hands-On Practice
+Improve accessibility features in the app.
+
+Implement localization for key app components.
+
+**Day 2:** Final Feature Enhancements
+Activities:
+
+Feature Completion
+Complete any remaining features or enhancements based on feedback and testing.
+Polishing UI/UX
+Fine-tune UI elements and transitions for a polished user experience.
+Hands-On Practice
+Implement final feature enhancements and UI refinements.
+
+**Day 3:** Performance Optimization and Bug Fixing
+Activities:
+
+Performance Review
+Conduct performance testing and identify areas for optimization.
+Bug Fixing
+Address any remaining bugs or issues discovered during testing.
+Hands-On Practice
+Optimize app performance and stability.
+Debug and resolve issues reported during testing.
+
+**Day 4:** Documentation and Code Review
+Activities:
+
+Documentation
+Prepare comprehensive documentation covering app features, architecture, and usage instructions.
+
+**Day 5:** Final Testing and User Acceptance
+Activities:
+
+User Acceptance Testing (UAT)
+Invite stakeholders or end-users to perform final UAT sessions.
+Feedback Collection
+Gather feedback from stakeholders and end-users for final adjustments.
+Hands-On Practice
+Conduct final rounds of testing and validate app functionality.
