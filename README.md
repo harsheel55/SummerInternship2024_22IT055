@@ -34,14 +34,14 @@ Setup Workstations: Ensure all necessary software and tools are installed (IDE, 
 **Day 2:** Understanding Flutter
 Activities:
 
-Flutter Basics: Introduction to Flutter framework, Dart language, and how Flutter works.
+- Flutter Basics: Introduction to Flutter framework, Dart language, and how Flutter works.
 Development Tools: Familiarize yourself with development tools such as Android Studio or Visual Studio Code.
 Simple App Tutorial: Build a simple "Hello World" app to get hands-on experience with Flutter.
 
 **Day 3:** Deep Dive into Flutter Widgets
 Activities:
 
-Widgets Overview: Learn about the different types of widgets in Flutter.
+- Widgets Overview: Learn about the different types of widgets in Flutter.
 State Management: Introduction to state management in Flutter.
 Hands-On Practice: Create a small app using various widgets and implement basic state management.
 
