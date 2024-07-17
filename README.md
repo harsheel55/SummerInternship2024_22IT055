@@ -2,7 +2,7 @@
 🌟 Flutter Summer Internship 2024 - Project Showcase 🌟
 Welcome to my GitHub repository for the Flutter Summer Internship 2024! This project showcases the work done during the internship, including practical insights and hands-on experience with Flutter and file-sharing app development.
 
-Start of Internship
+**Start of Internship**
 1️⃣ week 1
 Date: 13 May 2024
 
