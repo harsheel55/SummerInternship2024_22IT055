@@ -16,9 +16,6 @@ Here is the Outine of Week-1:
 5.Project Setup and Initial Development
 6.Code Review and Feedback Session
 7.Installation Andorid studio and same packages for flutter
-Deploy a personal page.html on Apache
-Open Security Group for Apache to accept connections on port 80
-Access the page.html using the public IP address of the EC2 instance
 
 Welcome to Belymon Infotech!
 Welcome, interns, to Belymon Infotech! We're excited to have you join our team and look forward to a productive and enriching internship experience. This week, we will focus on onboarding and introducing you to the technologies and tools you'll be using, specifically Flutter, for developing our file sharing app.
