@@ -4,7 +4,7 @@ Welcome to my GitHub repository for the Flutter Summer Internship 2024! This pro
 
 **Start of Internship**
 
-1️⃣ week 1
+**1️⃣ week 1**
 
 **Date: 13 May 2024**
 
@@ -58,7 +58,7 @@ Project Repository: Introduction to the project repository and version control u
 Initial Setup: Set up the initial project structure in Flutter.
 Begin Development: Start working on the initial components of the app.
 
-2️⃣ week 2
+**2️⃣ week 2**
 
 **Date: 20 May 2024**
 
@@ -150,4 +150,87 @@ Setting up Firebase and integrating Firestore with a Flutter app.
 Hands-On Practice
 Implement a local database in a sample app.
 Perform basic CRUD operations and display the data.
+
+
+**3️⃣ week 3**
+
+**Date: 20 May 2024**
+
+**Here is the Outline of Week-3:**
+
+1.File Handling and Storage
+
+2.UI/UX Design Principles
+
+3.User Authentication
+
+4.Implementing Core File Sharing Features
+
+5.Real-Time Data and Notifications
+
+📝**Day-by-Day Progress**
+
+**Day 1:** File Handling and Storage
+Activities:
+
+File Handling Basics
+Introduction to file handling in Flutter.
+Reading from and writing to files.
+Integrating Cloud Storage
+Overview of cloud storage solutions (Firebase Storage).
+Uploading and downloading files from cloud storage.
+Hands-On Practice
+Implement file reading and writing in a sample app.
+Integrate Firebase Storage to upload and download files.
+
+**Day 2:** UI/UX Design Principles
+Activities:
+
+Introduction to UI/UX Design
+Principles of good UI/UX design.
+Best practices for designing mobile apps.
+Design Tools
+Introduction to design tools like Figma or Adobe XD.
+Hands-On Design
+Create wireframes and mockups for the file sharing app.
+Collaborate with peers to refine the design.
+
+**Day 3:** User Authentication
+Activities:
+
+Introduction to Authentication
+Overview of user authentication methods (email/password, OAuth, etc.).
+Importance of secure authentication in file sharing apps.
+Implementing Authentication
+Integrating Firebase Authentication for email/password login.
+Setting up OAuth providers (Google, Facebook).
+Hands-On Practice
+Implement user registration and login functionality in the app.
+Securely store user credentials.
+
+**Day 4:** Implementing Core File Sharing Features
+Activities:
+
+Uploading Files
+Designing and implementing a feature to upload files to the server.
+Ensuring efficient and secure file uploads.
+Downloading Files
+Implementing file download functionality.
+Managing file access and permissions.
+Hands-On Practice
+Build the file upload and download interfaces.
+Test file transfer operations.
+
+**Day 5:** Real-Time Data and Notifications
+Activities:
+
+Real-Time Database
+Integrating Firebase Realtime Database or Firestore for real-time data updates.
+Synchronizing file data across devices.
+Push Notifications
+Setting up Firebase Cloud Messaging (FCM) for push notifications.
+Implementing notifications for file upload/download completion and new shared files.
+Hands-On Practice
+Sync file data in real-time.
+Implement push notifications in the app.
 
