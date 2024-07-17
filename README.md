@@ -27,7 +27,7 @@ Here is the Outine of Week-1:
 Welcome to Belymon Infotech!
 Welcome, interns, to Belymon Infotech! We're excited to have you join our team and look forward to a productive and enriching internship experience. This week, we will focus on onboarding and introducing you to the technologies and tools you'll be using, specifically Flutter, for developing our file sharing app.
 
-📝** Day-by-Day Progress**
+📝**Day-by-Day Progress**
 
 **Day 1:** Introduction and Orientation
 Activities:
