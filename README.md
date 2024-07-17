@@ -11,11 +11,17 @@ Welcome to my GitHub repository for the Flutter Summer Internship 2024! This pro
 Here is the Outine of Week-1:
 
 1.Introduction and Orientation
+
 2.Understanding Flutter
+
 3.Deep Dive into Flutter Widgets
+
 4.Introduction to File Sharing Concepts
+
 5.Project Setup and Initial Development
+
 6.Code Review and Feedback Session
+
 7.Installation Andorid studio and same packages for flutter
 
 Welcome to Belymon Infotech!
