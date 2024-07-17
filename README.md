@@ -6,12 +6,25 @@ Welcome to my GitHub repository for the Flutter Summer Internship 2024! This pro
 
 1️⃣ week 1
 
-Date: 13 May 2024
+**Date: 13 May 2024**
+
+Here is the Outine of Week-1:
+1.Introduction and Orientation
+2.Understanding Flutter
+3.Deep Dive into Flutter Widgets
+4.Introduction to File Sharing Concepts
+5.Project Setup and Initial Development
+6.Code Review and Feedback Session
+7.Installation Andorid studio and same packages for flutter
+Deploy a personal page.html on Apache
+Open Security Group for Apache to accept connections on port 80
+Access the page.html using the public IP address of the EC2 instance
 
 Welcome to Belymon Infotech!
 Welcome, interns, to Belymon Infotech! We're excited to have you join our team and look forward to a productive and enriching internship experience. This week, we will focus on onboarding and introducing you to the technologies and tools you'll be using, specifically Flutter, for developing our file sharing app.
 
-Day 1: Introduction and Orientation
+📝** Day-by-Day Progress**
+**Day 1:** Introduction and Orientation
 Activities:
 
 Welcome Session: Meet your mentors and fellow interns.
@@ -22,7 +35,7 @@ Goals:
 
 Get to know the team and understand the company's vision.
 Set up your development environment.
-Day 2: Understanding Flutter
+**Day 2:** Understanding Flutter
 Activities:
 
 Flutter Basics: Introduction to Flutter framework, Dart language, and how Flutter works.
@@ -32,7 +45,7 @@ Goals:
 
 Gain a basic understanding of Flutter and its components.
 Get comfortable with the development tools.
-Day 3: Deep Dive into Flutter Widgets
+**Day 3:** Deep Dive into Flutter Widgets
 Activities:
 
 Widgets Overview: Learn about the different types of widgets in Flutter.
@@ -42,7 +55,7 @@ Goals:
 
 Understand the fundamental widgets in Flutter.
 Learn how to manage state in a Flutter app.
-Day 4: Introduction to File Sharing Concepts
+**Day 4:** Introduction to File Sharing Concepts
 Activities:
 
 File Sharing Basics: Overview of file sharing concepts and protocols.
@@ -52,7 +65,7 @@ Goals:
 
 Understand the basic concepts of file sharing.
 Get an overview of the app's architecture and design.
-Day 5: Project Setup and Initial Development
+**Day 5:** Project Setup and Initial Development
 Activities:
 
 Project Repository: Introduction to the project repository and version control using Git.
@@ -62,7 +75,7 @@ Goals:
 
 Get familiar with the project repository and version control.
 Begin the initial phase of app development.
-Day 6: Code Review and Feedback Session
+**Day 6:** Code Review and Feedback Session
 Activities:
 
 Code Review: Review the code written so far with your mentor.
@@ -72,13 +85,33 @@ Goals:
 
 Improve your code quality based on feedback.
 Prepare for the next steps in the project.
-Day 7: Reflection and Learning
+**Day 7:** Installation Andorid studio and same packages for flutter
 Activities:
 
-Reflection Session: Reflect on what you've learned and achieved during the first week.
-Documentation: Document your learning and progress.
-Q&A Session: Open floor for any questions and clarifications.
-Goals:
+Introduction to Android Studio
 
-Consolidate your learning.
-Ensure all your questions are addressed.
+Overview of Android Studio as an Integrated Development Environment (IDE).
+Discussion on why Android Studio is preferred for Flutter development.
+Installation Steps for Android Studio
+
+Downloading Android Studio:
+Navigate to the Android Studio download page.
+Select the appropriate version for your operating system (Windows, macOS, Linux).
+Download and install the Android Studio setup file.
+Installing Android Studio:
+Follow the on-screen instructions to complete the installation.
+Configure the Android SDK, choosing the recommended settings.
+Verify installation by launching Android Studio and creating a new project.
+Configuring Android Studio for Flutter
+
+Installing Flutter and Dart Plugins:
+Open Android Studio and navigate to File > Settings > Plugins.
+Search for "Flutter" and "Dart" plugins.
+Install both plugins and restart Android Studio.
+Setting Up the Flutter SDK:
+Download the Flutter SDK from the Flutter website.
+Extract the Flutter SDK to a desired location on your system.
+Configure the Flutter SDK path in Android Studio by navigating to File > Settings > Languages & Frameworks > Flutter and setting the Flutter SDK path.
+Verifying Installation:
+Open a terminal and run flutter doctor to ensure all dependencies are installed.
+Address any issues or missing dependencies as indicated by flutter doctor.
