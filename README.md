@@ -1,7 +1,7 @@
 # SummerInternship2024_22IT055
 🌟 Flutter Summer Internship 2024 - Project Showcase 🌟
 
-Welcome to my GitHub repository for the Flutter Summer Internship 2024! This project showcases the work done during the internship, including practical insights and hands-on experience with Flutter and file-sharing app development.
+Welcome to my GitHub repository for the Flutter Summer Internship 2024! This project showcases the work done during the internship, including practical insights and hands-on experience with Flutter and Weather app in flutter.
 
 **Start of Internship**
 
@@ -11,53 +11,35 @@ Welcome to my GitHub repository for the Flutter Summer Internship 2024! This pro
 
 Here is the Outine of Week-1:
 
-1.Introduction and Orientation
+1. Understanding Project Requirements
 
-2.Understanding Flutter
+2.Setting Up the Development Environment
 
-3.Deep Dive into Flutter Widgets
-
-4.Introduction to File Sharing Concepts
-
-5.Project Setup and Initial Development
+3.Exploring Flutter Basics
 
 📝**Day-by-Day Progress**
 
-**Day 1:** Introduction and Orientation
+**Day 1-2:** Understanding Project Requirements
 Activities:
 
-Welcome Session: Meet your mentors and fellow interns.
-Company Overview: Learn about Belymon Infotech's mission, values, and projects.
-Project Introduction: Overview of the file sharing app project, its objectives, and your role in it.
-Setup Workstations: Ensure all necessary software and tools are installed (IDE, Flutter SDK, Git, etc.).
+- Met with my mentor to discuss the project scope and expectations.
+- Defined core features: real-time weather updates, 7-day forecast, search functionality, and an intuitive user interface.
+- Researched popular weather apps to identify best practices and user experience enhancements.
 
-**Day 2:** Understanding Flutter
+**Day 3-4:** Setting Up the Development Environment
 Activities:
 
-- Flutter Basics: Introduction to Flutter framework, Dart language, and how Flutter works.
-Development Tools: Familiarize yourself with development tools such as Android Studio or Visual Studio Code.
-Simple App Tutorial: Build a simple "Hello World" app to get hands-on experience with Flutter.
+- Installed Flutter and Dart SDK on my machine.
+- Set up VSCode with necessary plugins for Flutter development.
+- Configured emulators for Android and iOS to test the app on different devices.
+- Created a new Flutter project and familiarized myself with the default project structure.
 
-**Day 3:** Deep Dive into Flutter Widgets
+**Day 5:** Exploring Flutter Basics
 Activities:
 
-- Widgets Overview: Learn about the different types of widgets in Flutter.
-State Management: Introduction to state management in Flutter.
-Hands-On Practice: Create a small app using various widgets and implement basic state management.
-
-**Day 4:** Introduction to File Sharing Concepts
-Activities:
-
-- File Sharing Basics: Overview of file sharing concepts and protocols.
-- App Architecture: Learn about the architecture of a file sharing app and how it integrates with Flutter.
-- Design Discussion: Discuss the design and features of our file sharing app.
-
-**Day 5:** Project Setup and Initial Development
-Activities:
-
-- Project Repository: Introduction to the project repository and version control using Git.
-- Initial Setup: Set up the initial project structure in Flutter.
-- Begin Development: Start working on the initial components of the app.
+- Studied Flutter’s widget tree and UI management.
+- Built simple UIs using StatelessWidget and StatefulWidget.
+- Explored hot reload and hot restart for efficient development.
 
 **2️⃣ week 2**
 
@@ -65,83 +47,32 @@ Activities:
 
 **Here is the Outine of Week-2:**
 
-1.Code Review and Feedback Session
+1.Designing the UI
 
-2.Installation Andorid studio and same packages for flutter
+2.Implementing Navigation
 
-3.Advanced Flutter Concepts
-
-4.Networking and APIs
-
-5.Database Integration
+3.Integrating Weather API
 
 📝**Day-by-Day Progress**
 
-**Day 1:** Code Review and Feedback Session
+**Day 1-2:** Designing the UI
 Activities:
 
-Code Review: Review the code written so far with your mentor.
-Feedback Session: Receive feedback and discuss any challenges faced during the week.
-Planning for Next Week: Plan the tasks and goals for the upcoming week.
+- Created wireframes for the app’s main screens: Home, Details, and Search.
+- Used Flutter’s Material Design components to build a visually appealing and responsive UI.
+- Implemented the basic layout for the Home screen, displaying static weather information.
 
-**Day 2:** Installation Andorid studio and same packages for flutter
+**Day 3-4:** Installation Andorid studio and same packages for flutter
 Activities:
 
-- **Introduction to Android Studio**
+- Added navigation between the Home, Details, and Search screens using Flutter’s Navigator.
+- Ensured smooth transitions and maintained state between screens.
 
-Overview of Android Studio as an Integrated Development Environment (IDE).
-Discussion on why Android Studio is preferred for Flutter development.
-Installation Steps for Android Studio
-
-- **Downloading Android Studio:**
-Navigate to the Android Studio download page.
-Select the appropriate version for your operating system (Windows, macOS, Linux).
-Download and install the Android Studio setup file.
-Installing Android Studio:
-Follow the on-screen instructions to complete the installation.
-Configure the Android SDK, choosing the recommended settings.
-Verify installation by launching Android Studio and creating a new project.
-Configuring Android Studio for Flutter
-
-- **Installing Flutter and Dart Plugins:**
-Open Android Studio and navigate to File > Settings > Plugins.
-Search for "Flutter" and "Dart" plugins.
-Install both plugins and restart Android Studio.
-Setting Up the Flutter SDK:
-Download the Flutter SDK from the Flutter website.
-Extract the Flutter SDK to a desired location on your system.
-Configure the Flutter SDK path in Android Studio by navigating to File > Settings > Languages & Frameworks > Flutter and setting the Flutter SDK path.
-Verifying Installation:
-Open a terminal and run flutter doctor to ensure all dependencies are installed.
-Address any issues or missing dependencies as indicated by flutter doctor.
-
-**Day 3:** Advanced Flutter Concepts
+**Day 5:** Integrating Weather API
 Activities:
 
-- State Management Deep Dive
-Detailed exploration of state management solutions in Flutter: Provider, Riverpod, Bloc, etc.
-Comparison of different state management techniques.
-- Advanced Widgets and Animations
-Working with advanced widgets: ListView, GridView, CustomScrollView.
-Introduction to animations in Flutter: implicit and explicit animations.
-
-**Day 4:** Networking and APIs
-Activities:
-
-- Networking in Flutter
-Introduction to HTTP requests in Flutter using the http package.
-Working with RESTful APIs.
-- Data Handling
-Parsing JSON data.
-Displaying data fetched from an API in the app.
-
-**Day 5:** Database Integration
-Activities:
-
-Introduction to firebase batabase.
-CRUD operations (Create, Read, Update, Delete) with firebase.
-Overview of cloud database options (Firebase Firestore).
-Setting up Firebase and integrating Firestore with a Flutter app.
+- Researched and selected the OpenWeatherMap API for fetching weather data.
+- Set up an API key and tested basic API calls using Postman.
 
 **3️⃣ week 3**
 
@@ -149,66 +80,31 @@ Setting up Firebase and integrating Firestore with a Flutter app.
 
 **Here is the Outline of Week-3:**
 
-1.File Handling and Storage
+1.Fetching Real-time Weather Data
 
-2.UI/UX Design Principles
+2.Parsing JSON Data
 
-3.User Authentication
-
-4.Implementing Core File Sharing Features
-
-5.Real-Time Data and Notifications
+3.Displaying Real-time Data
 
 📝**Day-by-Day Progress**
 
-**Day 1:** File Handling and Storage
+**Day 1-2:** File Handling and Storage
 Activities:
 
-- File Handling Basics
-Introduction to file handling in Flutter.
-Reading from and writing to files.
-- Integrating Cloud Storage
-Overview of cloud storage solutions (Firebase Storage).
-Uploading and downloading files from cloud storage.
+- Integrated the OpenWeatherMap API with the app.
+- Used the http package to make API calls and fetch weather data based on the user’s location.
 
-**Day 2:** UI/UX Design Principles
+**Day 3-4:** UI/UX Design Principles
 Activities:
 
-- Introduction to UI/UX Design
-Principles of good UI/UX design.
-Best practices for designing mobile apps.
-- Design Tools
-Introduction to design tools like Figma or Adobe XD.
+- Parsed the JSON response to extract necessary weather information.
+- Created data models to represent weather data and update the UI accordingly.
 
-**Day 3:** User Authentication
+**Day 5:** Displaying Data
 Activities:
 
-- Introduction to Authentication
-Overview of user authentication methods (email/password, OAuth, etc.).
-Importance of secure authentication in file sharing apps.
-- Implementing Authentication
-Integrating Firebase Authentication for email/password login.
-Setting up OAuth providers (Google, Facebook).
-
-**Day 4:** Implementing Core File Sharing Features
-Activities:
-
-- Uploading Files
-Designing and implementing a feature to upload files to the server.
-Ensuring efficient and secure file uploads.
-- Downloading Files
-Implementing file download functionality.
-Managing file access and permissions.
-
-**Day 5:** Real-Time Data and Notifications
-Activities:
-
-- Real-Time Database
-Integrating Firebase Realtime Database or Firestore for real-time data updates.
-Synchronizing file data across devices.
-- Push Notifications
-Setting up Firebase Cloud Messaging (FCM) for push notifications.
-Implementing notifications for file upload/download completion and new shared files.
+- Updated the Home screen to display real-time weather data.
+- Implemented error handling and loading states for a smooth user experience.
 
 **4️⃣ week 4**
 
@@ -216,68 +112,32 @@ Implementing notifications for file upload/download completion and new shared fi
 
 **Here is the Outline of Week-3:**
 
-1.Advanced File Management Features
+1.Adding Search Functionality
 
-2.Security Enhancements
+2.Building the 7-day Forecast
 
-3.Collaboration and Sharing Enhancements
-
-4.Integration with External Services
-
-5.Accessibility and Localization
+3.UI Improvements and Animations
 
 📝**Day-by-Day Progress**
 
-**Day 1:** Advanced File Management Features
+**Day 1-2:** Adding Search Functionality
 Activities:
 
-- File Organization
-Implementing folders and tagging systems for organizing files.
-- Search and Filter
-Adding search and filter functionality to easily find files.
-- File Preview
-Implementing file preview for supported file types (images, PDFs, etc.).
+- Implemented a search bar on the Home screen.
+- Enabled users to search for weather information by city name.
+- Updated the UI to display weather data for the searched city.
 
-**Day 2:** Security Enhancements
+**Day 3-4:** Building the 2-day Forecast
 Activities:
 
-- Data Encryption
-Implementing encryption for file storage and transfers.
-Ensuring end-to-end encryption for secure communication.
-- Access Control
-Setting up user roles and permissions.
-Implementing access control for shared files.
+- Added a new section on the Home screen to display 2-day weather forecast.
+- Fetched forecast data from the OpenWeatherMap API and updated the UI.
 
-**Day 3:** Collaboration and Sharing Enhancements
+**Day 5:** UI Improvements and Animations
 Activities:
 
-- Collaborative Editing
-Implementing real-time collaborative editing for shared documents (using Firebase Realtime Database or similar).
-- Version Control
-Adding version control to track changes and revisions in shared files.
-- Hands-On Practice
-Develop collaborative editing features.
-Implement version control for shared documents.
-
-**Day 4:** Integration with External Services
-Activities:
-
-- Integration with Cloud Storage Providers
-Integrating with popular cloud storage providers (Google Drive, Dropbox) for seamless file synchronization.
-- Social Media Sharing
-Adding functionality to share files directly to social media platforms.
-- Hands-On Practice
-Integrate with external cloud storage APIs.
-Implement social media sharing features.
-
-**Day 5:** Accessibility and Localization
-Activities:
-
-- Localization
-Adding support for multiple languages through localization.
-Implementing dynamic language switching.
-- Hands-On Practice
-Improve accessibility features in the app.
+- Enhanced the app’s UI with animations and transitions.
+- Improved the overall user experience by making the UI more interactive and visually appealing.
 
 **week 5**
 
