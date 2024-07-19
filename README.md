@@ -145,7 +145,7 @@ Activities:
 
 **Here is the Outline of Week-3:**
 
-1.Accessibility and Localization
+1.Testing
 
 2.Final Feature Enhancements
 
@@ -157,17 +157,11 @@ Activities:
 
 📝**Day-by-Day Progress**
 
-**Day 1:** Accessibility and Localization
+**Day 1:** Testing
 Activities:
 
-- Accessibility
-Implementing accessibility features to ensure the app is usable by people with disabilities.
-- Localization
-Adding support for multiple languages through localization.
-Implementing dynamic language switching.
-- Hands-On Practice
-Improve accessibility features in the app.
-Implement localization for key app components.
+- Conducted thorough testing on different devices to ensure cross-platform compatibility.
+- Identified and fixed bugs related to API integration, UI responsiveness, and navigation.
 
 **Day 2:** Final Feature Enhancements
 Activities:
